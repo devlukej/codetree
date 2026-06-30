@@ -1,5 +1,4 @@
 n = input()
 
-for i in range(3):
-    n+=n
-print(n)
+for i in range(8):
+    print(n, end="")
